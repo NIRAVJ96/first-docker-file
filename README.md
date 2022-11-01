@@ -19,3 +19,12 @@ You can also monitor any changes in your NodeJS application and automatically re
 $ npm install nodemon -g
 $ nodemon app.js
 ```
+## docker build command 
+```
+docker build -t testimage .
+```
+
+## docker Run command 
+```
+docker run -t -d -p 3000:3000 testimage
+```
