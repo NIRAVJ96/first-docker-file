@@ -3,5 +3,5 @@
   id: jobs
   with:
     github_token: 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
-    job_name: @@JOB_NAME@@
+    job_name: test
     per_page: 30
